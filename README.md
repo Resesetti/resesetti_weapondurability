@@ -1,0 +1,2 @@
+# resesetti_weapondurability
+ 
