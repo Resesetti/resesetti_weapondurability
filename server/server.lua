@@ -2,6 +2,7 @@
 -- https://docs.fivem.net/natives/?_0xC3287EE3050FB74C
 -- Minimum degrade per shoot to ped/player
 -- SHooting only decreasing when player shooting in ped/entity.
+-- DON'T TOUCH group item in array, use docs in link above
 local durabilityUsage = {
     [416676503] = {minDegrade = 0.4, maxDegrade = 5.0, group= 'GROUP_PISTOL'}, --Pistols
     [3566412244]= {minDegrade = 0.3, maxDegrade = 5.0, group= 'GROUP_MELEE'}, --Melee 
